@@ -19,7 +19,7 @@
 
 ### 1. Доступ к приложению
 - Главная страница: `https://prosub2.kirillmahonin622.workers.dev/`
-![Uploading a2351e50aaeb06031e8f0896af8040cb.png…]()
+![Иллюстрация к проекту](https://github.com/KARMER66/ProSub2/blob/main/a2351e50aaeb06031e8f0896af8040cb.png)
 
 ### 2. Инсталлятор
 Файл `ProSub2.msi` — готовый установщик для Windows.  
